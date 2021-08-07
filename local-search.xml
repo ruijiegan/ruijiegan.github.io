@@ -4,11 +4,24 @@
   
   
   <entry>
+    <title></title>
+    <link href="/2021/08/07/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%91%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0/"/>
+    <url>/2021/08/07/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BA%91%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="微信小程序云开发学习"><a href="#微信小程序云开发学习" class="headerlink" title="微信小程序云开发学习"></a>微信小程序云开发学习</h1><h2 id="1-微信开发工具快捷键"><a href="#1-微信开发工具快捷键" class="headerlink" title="1.微信开发工具快捷键"></a>1.微信开发工具快捷键</h2><table><thead><tr><th>快捷键组合</th><th>描述</th></tr></thead><tbody><tr><td>Ctrl+a</td><td>全选</td></tr><tr><td>Ctrl+c</td><td>复制选中内容</td></tr><tr><td>Ctrl+/</td><td>添加注释</td></tr><tr><td>Ctrl+Shift+k</td><td>删除当前行</td></tr><tr><td>Ctrl+Shift+h</td><td>全局搜索并替换文本</td></tr><tr><td>Ctrl+h</td><td>当前页面内搜索并替换文本</td></tr><tr><td>Shift+Alt+F</td><td>格式化代码</td></tr><tr><td>Shift+Alt+⬆</td><td>向上复制当前行</td></tr><tr><td>Shift+Alt+⬇</td><td>向下复制当前行</td></tr><tr><td>Alt+⬆</td><td>把当前行向上移动一行</td></tr><tr><td>Alt+⬇</td><td>把当前行向下移动一行</td></tr></tbody></table>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>熊猫</title>
     <link href="/2021/08/07/%E7%86%8A%E7%8C%AB/"/>
     <url>/2021/08/07/%E7%86%8A%E7%8C%AB/</url>
     
-    <content type="html"><![CDATA[<p><img src="panda.jpg" alt="可爱的熊猫"></p><p>大大大撒旦撒旦</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="panda.jpg" alt="可爱的熊猫"></p><p>大大大撒旦撒旦</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs xml"><span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> </span><br><span class="hljs-tag">    <span class="hljs-attr">frameborder</span>=<span class="hljs-string">&quot;no&quot;</span> <span class="hljs-attr">border</span>=<span class="hljs-string">&quot;0&quot;</span> <span class="hljs-attr">marginwidth</span>=<span class="hljs-string">&quot;0&quot;</span> </span><br><span class="hljs-tag">    <span class="hljs-attr">marginheight</span>=<span class="hljs-string">&quot;0&quot;</span> <span class="hljs-attr">width</span>=<span class="hljs-string">330</span> <span class="hljs-attr">height</span>=<span class="hljs-string">86</span> </span><br><span class="hljs-tag">    <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;//music.163.com/outchain/player?type=2&amp;id=461544312&amp;auto=0&amp;height=66&quot;</span>&gt;</span><br><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span><br></code></pre></td></tr></table></figure>]]></content>
     
     
     <categories>
